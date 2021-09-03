@@ -7,7 +7,7 @@ Fork / clone this repository.
 
 Run npm install.
 
-Use npm start to run the application.
+Use npm start to run the application .
 
 # Front End App: 
 
