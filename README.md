@@ -1,5 +1,5 @@
 # GrubDash-Back-end
-This repo is the backend App for GrubDash! As another developer works on the design and frontend experience,
+This repo is the backend App for GrubDash! As another developer works on the design and frontend experience
 I set up an API and building out specific routes so that the frontend developers can demo some initial design ideas.
 
 # Installation 
